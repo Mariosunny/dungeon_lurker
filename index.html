@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://fonts.googleapis.com/css?family=PT+Mono" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+	<script src="jquery-3.1.1.min.js"></script>
+	<script src="underscore-min.js"></script>
+    
+    <script id="template-screen-row" type="text/template">
+        <div class="screen-row <%= type %>">
+            <%= text %>
+        </div>
+    </script>
+</head>
+<body>
+    <div id="screen">
+    </div>
+    <div id="prompt">
+        &gt; <input type="text" maxlength="64" size="64" autocapitalize="off" spellcheck="false"/>
+    </div>
+    <script type="text/javascript" src="js/init.js"></script>
+	<script type="text/javascript" src="js/util.js"></script>
+	<script type="text/javascript" src="js/screen.js"></script>
+	<script type="text/javascript" src="js/prompt.js"></script>
+	<script type="text/javascript" src="js/levels.js"></script>
+	<script type="text/javascript" src="js/dice.js"></script>
+	<script type="text/javascript" src="js/items.js"></script>
+	<script type="text/javascript" src="js/entities.js"></script>
+	<script type="text/javascript" src="js/game.js"></script>
+	<script type="text/javascript" src="js/commands.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>

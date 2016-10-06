@@ -1,0 +1,32 @@
+body {
+    
+    background-color: rgb(0, 48, 0);
+    color: #00ee00;
+    font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+    text-shadow: 2px 2px 3px rgba(0, 32, 0, 0.5);
+    font-size: 12px;
+}
+#screen {
+    
+    height: 90%;
+}
+#prompt input {
+    
+    color: #00ee00;
+    font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+    text-shadow: 2px 2px 3px rgba(0, 32, 0, 0.5);
+    font-size: 12px;
+    background: transparent;
+    border: none;
+}
+#prompt input:focus {
+    outline: none;
+}
+.screen-row {
+    
+    height: 20px;
+}
+.output {
+    
+    margin-left: 10px;
+}

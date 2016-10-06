@@ -1,0 +1,327 @@
+
+HIT
+<5		injury (4 - roll)
+5-10	miss
+10-19	hit
+20+		critical hit
+
+
+EVADE
+0		monster hit
+10+		evade
+
+
+MONSTERS
+Giant Rat
+Kobold
+Goblin
+Lesser Wizard
+Phoenix
+Red Dragon
+Minotaur
+Moon Dragon
+Dungeon Guardian
+Treasure Chest (high leap, super high evade, 1 HP)
+
+Loot
+
+
+EFFECTS
+damage over time
+chance of monster instant death
+take two turns
+evade mid-battle
+revive
+increased loot
+restore health
+temporary weapon enchantment
+transform monster into lesser monster
+
+
+
+
+
+shrapnel bomb - deal 2 damage to each monster
+flash powder - stun monster for 2 turns
+- deal half damage to successive monsters
+
+
+
+SPELLS
+teleport: evade encounter (100% success)
+fire blast: deal 2 damage
+magic missile: deal 1 damage
+stun: stun monster for 2 turns
+meteor strike: deal 1d4-2 to each monster
+heal: 
+
+
+amulet of accuracy: +2 lunge
+
+ring of defense: +1 leap
+amulet of defense: +2 leap
+flash powder: +1 lurk
+boots of silence: +2 lurk
+invisibility cloak: +4 lurk
+
+
+amulet of life
+[passive]
+upon death, restores 10 hp
+breaks upon use
+
+flash powder
+[single use]
+stun monster for 2 turns
+
+ring of accuracy
+[passive]
++1 accuracy
+
+bread
+[single use]
+restore 2 hp
+
+antique locket
+[passive]
++1 max hp
+
+passionfruit
+[single use]
+restore 4 hp
+
+chocolate cake
+[single use]
+restore 8 hp
+
+lobster tail
+[single use]
+restore 16 hp
+
+fulminating stone
+[single use]
++5 accuracy this turn
+
+four leaf clover
+[passive]
+increases chance of rare loot
+
+
+swap the position of two entities
+
+
+
+
+
+
+- Take two additional turns.
+- +2 luck (desolves in 4 turns)
+- Double coins from loot.
+- If hit next turn, hit critical
+- Turn monster's attack die into 4d4 for n turns
+- Hit 10 damage
+- Hit 5 damage
+- increases inventory capacity by 2
+
+
+
+STATS
+Lunge - Chance of hitting a monster.
+Leap - Chance of dodging a monster's attack.
+Life - Max health
+Luck - Chance of receiving drops from a monster.
+Lurk - Chance of evading a monster. 
+
+
+
+
+
+switch sides
+switch places
+shuffle
+staves off fire-based monsters
+change element of item
+double the power of an item
+item requires to be charged over n turns
+traps
+
+
+fire
+water
+wood
+dark
+miasma
+
+
+
+wooden sword
+wood
+1d4-1
+
+black dagger
+dark
+1d4-1
+
+oak wand
+miasma
+1d4-1
+
+torch
+fire
+1d4-1
+
+icicle
+water
+1d4-1
+
+
+
+cursed ranseur
+dark
+
+basalt sword
+fire
+
+flaming wrench
+fire
+
+seething chakrams
+fire
+1d4
++1 acccuracy against dark armor
+hit twice
+
+fire sabre
+fire
+1d4
+
+
+polished fang
+fire
+
+1d4-2 damage over 2 turns
+
+blugeon of extreme discrimination
+wood
+
+if successful hit, stun monster for 1 turn
+
+elinvar spear
+water
+
+centaur bow
+wood
+
+maple wand
+miasma
+
+staff of the dead
+miasma
+
+mithril sword
+water
+
+gale valley broadsword
+water
+2d4
+take another turn if 
+
+supreme magma blade
+fire
+d12
+hit successive monsters for half damage
+
+immovable wand
+miasma
+
+glass katana
+water
+cannot equip armor while equipped
+
+magnificient j
+miasma, fire
+
+
+kinslayer crossbow
+wood
+
+seven-branched sword
+wood
+
+elven long bow
+wood
+
+lord master trident
+water
+d4
+attack each monster
+
+necromancer's tome
+miasma
+
+sovereign demon heart
+dark
+1d6+1d8
+ignore armor
+
+maddening morning star
+dark
+
+jewel-encrusted skull
+dark
+
+poison dart
+dark
+1d4
+1d4-1 damage to enemy over 2 turns
+
+bottle of acid
+water
+1d4-1
+1d4-2 damage to enemy armor
+
+greatsword of heart
+miasma
+1d6+1
++1 HP when equipped
+
+
+
+
+fire burns wood
+fire illuminates dark
+miasma aborbs fire
+water extingushes fire
+
+
+water extinguishes fire
+water washes away miasma
+wood floats otop water
+dark pollutes water
+
+wood floats otop water
+wood resists miasma
+fire burns wood
+dark corrupts wood
+
+miasma commands dark
+miasma absorbs fire
+water washes away miasma
+wood resists miasma
+
+dark pollutes water
+dark corrupts wood
+miasma commands dark
+fire illuminates dark
+
+
+fire burns wood
+fire illuminates dark
+water extinguishes fire
+water washes away miasma
+wood floats otop water
+wood resists miasma
+miasma commands dark
+miasma absorbs fire
+dark pollutes water
+dark corrupts wood
